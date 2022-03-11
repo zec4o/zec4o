@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**zec4o/zec4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, World! 🌎💻
 
-Here are some ideas to get you started:
+● 📖 Graduando de Sistemas de Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+● 🐧 Atualmente estudando para a certificação LPI Linux Essentials
+
+● 🌐 Se aprofundando na área de redes
+
+● ⚡ Curiosidades: Aos 6 anos, quando frequentava o trabalho do meu pai, me apaixonei por TI.
+
+● 📨 josemalty@gmail.com
+
