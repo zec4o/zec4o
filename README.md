@@ -7,7 +7,7 @@
 
 ● 🌐 Se aprofundando na área de redes
 
-● ⚡ Curiosidades: Aos 6 anos, quando frequentava o trabalho do meu pai, me apaixonei por TI.
+● ⚡ Curiosidade: Aos 6 anos, quando frequentava o trabalho do meu pai, me apaixonei por TI.
 
 ● 📨 josemalty@gmail.com
 
