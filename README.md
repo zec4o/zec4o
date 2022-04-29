@@ -1,6 +1,8 @@
 
 # Hello, World! 🌎💻
 
+● 🧑‍💻 Quality Assurance Tester - Estagiário at Nkey.
+
 ● 📖 Graduando de Sistemas de Informação.
 
 ● 🐧 Atualmente estudando para a certificação CTFL.
