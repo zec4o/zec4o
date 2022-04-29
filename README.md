@@ -5,7 +5,7 @@
 
 ● 📖 Graduando de Sistemas de Informação.
 
-● 🐧 Atualmente estudando para a certificação CTFL.
+● 😎 Atualmente estudando para a certificação CTFL.
 
 ● 🌐 Se aprofundando na área de Software Quality Assurance.
 
