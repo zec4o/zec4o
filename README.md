@@ -18,7 +18,6 @@
 <img align="right" alt="gif" width="250px" src="https://acegif.com/wp-content/uploads/gifs/moon-35.gif" />
 <br />
 <br />
-<br />
 
 **Personal life:**
 
