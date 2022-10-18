@@ -31,7 +31,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/zec4o/cypress/develop/assets/cypress-logo-dark.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/50798883/196444342-da576195-9245-46f2-9f2f-1f9be11775d7.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
