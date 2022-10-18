@@ -8,7 +8,8 @@
 <a href="https://www.linkedin.com/in/jose-malty/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-
+<br />
+<br />
 <br />
 
 - I am a **QA & Backend Developer Rookie!** 
