@@ -19,6 +19,7 @@
 <br />
 <br />
 <br />
+
 **Personal life:**
 
 - 👨‍🏛 I am currently a student of **Universidade do Sul de Santa Catarina**.
