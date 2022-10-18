@@ -1,4 +1,6 @@
 ### Hey 👋, I'm zeca.
+<p>Quality Assurance Intern at <a href="https://www.nkey.com.br/">Nkey</a>.
+</p>
 
 <a href="https://github.com/zec4o/">
   <img align="right" alt="Github" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -7,7 +9,6 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<br />
 <br />
 
 - I am a **QA & Backend Developer Rookie!** 
@@ -55,11 +56,11 @@
 
 
 
-📊 **My recent programming status:**
+👨‍💻 **Status:**
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JS Reinforcement...
 ```
 
 <!--END_SECTION:waka-->
