@@ -1,10 +1,10 @@
 ### Hey 👋, I'm zeca.
 
 <a href="https://github.com/zec4o/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="right" alt="Github" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jose-malty/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <br />
