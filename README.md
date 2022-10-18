@@ -17,6 +17,7 @@
 - **Now i'm a really QA/Development addicted 💻**
 
 <img align="right" alt="gif" width="250px" src="https://acegif.com/wp-content/uploads/gifs/moon-35.gif" />
+<br />
 
 **Personal life:**
 
@@ -37,6 +38,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+<br />
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=zec4o&count_private=true&show_icons=true&theme=omni" alt="zec4o" />
 
 **Technology being learned**
