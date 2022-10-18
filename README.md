@@ -31,7 +31,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://www.svgrepo.com/show/305923/cypress.svg"></code>
+<code><img height="20" src="https://docs.cypress.io/_nuxt/img/cypress-logo.a2e1292.svg"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
