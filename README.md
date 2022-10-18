@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/jose-malty/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<br />
-<br />
-<br />
 
 - I am a **QA & Backend Developer Rookie!** 
 - I like **music, reading and teaching.** 
@@ -20,7 +17,8 @@
 
 <img align="right" alt="gif" width="250px" src="https://acegif.com/wp-content/uploads/gifs/moon-35.gif" />
 <br />
-
+<br />
+<br />
 **Personal life:**
 
 - 👨‍🏛 I am currently a student of **Universidade do Sul de Santa Catarina**.
