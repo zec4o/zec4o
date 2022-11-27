@@ -1,6 +1,4 @@
 ### Hey 👋, I'm zeca.
-<p>Quality Assurance Intern at <a href="https://www.nkey.com.br/">Nkey</a>.
-</p>
 
 <a href="https://github.com/zec4o/">
   <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
