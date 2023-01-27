@@ -37,7 +37,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 <br />
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=zec4o&count_private=true&show_icons=true&theme=omni" alt="zec4o" />
 
 **Technology being learned**
 
