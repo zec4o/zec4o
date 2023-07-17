@@ -8,10 +8,9 @@
 </a>
 
 - I am a **QA & Backend Developer Rookie!** 
-- I like **music, reading and teaching.** 
 - I love to **learn** new things and **spread the knowledge!**
 - Before i started the college, i used to think i would be a Network Engineer.
-- **Now i'm a really QA/Development addicted 💻**
+- **Now i'm a really addicted to software development 💻**
 
 <img align="right" alt="gif" width="250px" src="https://acegif.com/wp-content/uploads/gifs/moon-35.gif" />
 <br />
@@ -22,9 +21,6 @@
 - 👨‍🏛 I am currently a student of **Universidade do Sul de Santa Catarina**.
 - 🌎 I'm **Brazilian**.
 - 📚 Enrolled in **Informational Systems**.
-- 🌱 I'm currently learning **Node.js**. 
-- 🎮 My hobbies are **playing guitar and video games**.
-
 
 
 **Languages and Tools:**  
