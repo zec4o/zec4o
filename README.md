@@ -42,19 +42,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 
-
-
-👨‍💻 **Status:**
-<!--START_SECTION:waka-->
-
-```text
-NodeJs Reinforcement...
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
 
-  ![Snake animation](https://github.com/zec4o/zec4o/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/zec4o/zec4o/blob/output/github-contribution-grid-snake.gif)
   
 </div>
