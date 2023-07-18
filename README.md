@@ -43,7 +43,11 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/zec4o/zec4o/blob/output/github-contribution-grid-snake.svg)
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zec4o/zec4o/output/github-contribution-grid-snake.svg">
+</picture>
   
 </div>
