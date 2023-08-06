@@ -6,41 +6,35 @@
 <a href="https://www.linkedin.com/in/jose-malty/">
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+<a href="https://open.spotify.com/user/12167033613?si=1b2de66216d4448d">
+  <img align="right" alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" />
+</a>
 
-- I am a **QA & Backend Developer Rookie!** 
-- I love to **learn** new things and **spread the knowledge!**
-- Before i started the college, i used to think i would be a Network Engineer.
-- **Now i'm a really addicted to software development 💻**
+<img align="right" alt="gif" height='250px' src="https://media4.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif?cid=ecf05e476xadfzj405j7s67jnpqqzhpi82w8jy5im4lc6jfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-<img align="right" alt="gif" width="250px" src="https://acegif.com/wp-content/uploads/gifs/moon-35.gif" />
-<br />
+
+- i'm doing QA now, but working on becoming a **backend dev**.
+- it's really nice for me to spread knowledge.
+- before i started the college, i used to think i would be a Network Engineer.
+
 <br />
 
 **Personal life:**
 
-- 👨‍🏛 I am currently a student of **Universidade do Sul de Santa Catarina**.
-- 🌎 I'm **Brazilian**.
-- 📚 Enrolled in **Informational Systems**.
+-  i am currently a student of **Universidade do Sul de Santa Catarina**.
+-  enrolled in **informational systems**.
+-  my dachshunds are my passion
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+</div>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://iconape.com/wp-content/files/gj/370774/svg/370774.svg"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<br />
-
-**Technology being learned**
-
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 
 <div align="center">
   
