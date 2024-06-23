@@ -10,8 +10,8 @@
   <img align="right" alt="Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" />
 </a>
 
-- i'm doing QA now, but i have experience working on backend projects.
-- it's really nice for me to spread knowledge.
+- i'm a Software QA Engineer with a huge background working on backend projects.
+- i really enjoy spreading knowledge.
 - before i started the college, i used to think i would be a Network Engineer.
   <img align="right" alt="gif" height='250px' src="https://media4.giphy.com/media/3o7aD6ydPRgEPllYQM/giphy.gif?cid=ecf05e476xadfzj405j7s67jnpqqzhpi82w8jy5im4lc6jfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
@@ -21,7 +21,6 @@
 
 -  i am currently a student of **Universidade do Sul de Santa Catarina**.
 -  enrolled in **informational systems**.
--  my dachshunds are my passion
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
