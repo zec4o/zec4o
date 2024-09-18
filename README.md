@@ -25,7 +25,7 @@
   <img alt="Azure Fundamentals AZ-900 Badge" width="160px" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg"/>
 </a>
 <a href="https://www.credly.com/badges/894173bc-5984-467c-9845-b5846a0a20a9/public_url">
-  <img alt="Github Foundations Badge" width="160px" src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
+  <img alt="Github Foundations Badge" width="160px" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"/>
 </a>
 
 
