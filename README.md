@@ -34,8 +34,7 @@
 
 **Personal life:**
 
--  i am currently a student of **Universidade do Sul de Santa Catarina**.
--  enrolled in **informational systems**.
+-  - i'm an **informational systems** bachelor.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
